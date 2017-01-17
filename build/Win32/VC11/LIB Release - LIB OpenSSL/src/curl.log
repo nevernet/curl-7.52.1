@@ -1,0 +1,53 @@
+﻿Build started 2017/1/17 16:25:08.
+     1>Project "C:\Users\Administrator\Desktop\curl-7.52.1\projects\Windows\VC11\src\curl.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"..\..\..\..\build\Win32\VC11\LIB Release - LIB OpenSSL\curl.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"..\..\..\..\build\Win32\VC11\LIB Release - LIB OpenSSL" /LIBPATH:"..\..\..\..\..\openssl\build\Win32\VC11\LIB Release" crypt32.lib ws2_32.lib wldap32.lib libcurl.lib libeay32.lib ssleay32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"..\..\..\..\build\Win32\VC11\LIB Release - LIB OpenSSL\curl.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"..\..\..\..\build\Win32\VC11\LIB Release - LIB OpenSSL\curl.lib" /MACHINE:X86 /SAFESEH "..\..\..\..\build\Win32\VC11\LIB Release - LIB OpenSSL\src\curl.res"
+         "..\..\..\..\build\Win32\VC11\LIB Release - LIB OpenSSL\src\nonblock.obj"
+         "..\..\..\..\build\Win32\VC11\LIB Release - LIB OpenSSL\src\strtoofft.obj"
+         "..\..\..\..\build\Win32\VC11\LIB Release - LIB OpenSSL\src\warnless.obj"
+         "..\..\..\..\build\Win32\VC11\LIB Release - LIB OpenSSL\src\slist_wc.obj"
+         "..\..\..\..\build\Win32\VC11\LIB Release - LIB OpenSSL\src\tool_binmode.obj"
+         "..\..\..\..\build\Win32\VC11\LIB Release - LIB OpenSSL\src\tool_bname.obj"
+         "..\..\..\..\build\Win32\VC11\LIB Release - LIB OpenSSL\src\tool_cb_dbg.obj"
+         "..\..\..\..\build\Win32\VC11\LIB Release - LIB OpenSSL\src\tool_cb_hdr.obj"
+         "..\..\..\..\build\Win32\VC11\LIB Release - LIB OpenSSL\src\tool_cb_prg.obj"
+         "..\..\..\..\build\Win32\VC11\LIB Release - LIB OpenSSL\src\tool_cb_rea.obj"
+         "..\..\..\..\build\Win32\VC11\LIB Release - LIB OpenSSL\src\tool_cb_see.obj"
+         "..\..\..\..\build\Win32\VC11\LIB Release - LIB OpenSSL\src\tool_cb_wrt.obj"
+         "..\..\..\..\build\Win32\VC11\LIB Release - LIB OpenSSL\src\tool_cfgable.obj"
+         "..\..\..\..\build\Win32\VC11\LIB Release - LIB OpenSSL\src\tool_convert.obj"
+         "..\..\..\..\build\Win32\VC11\LIB Release - LIB OpenSSL\src\tool_dirhie.obj"
+         "..\..\..\..\build\Win32\VC11\LIB Release - LIB OpenSSL\src\tool_doswin.obj"
+         "..\..\..\..\build\Win32\VC11\LIB Release - LIB OpenSSL\src\tool_easysrc.obj"
+         "..\..\..\..\build\Win32\VC11\LIB Release - LIB OpenSSL\src\tool_formparse.obj"
+         "..\..\..\..\build\Win32\VC11\LIB Release - LIB OpenSSL\src\tool_getparam.obj"
+         "..\..\..\..\build\Win32\VC11\LIB Release - LIB OpenSSL\src\tool_getpass.obj"
+         "..\..\..\..\build\Win32\VC11\LIB Release - LIB OpenSSL\src\tool_help.obj"
+         "..\..\..\..\build\Win32\VC11\LIB Release - LIB OpenSSL\src\tool_helpers.obj"
+         "..\..\..\..\build\Win32\VC11\LIB Release - LIB OpenSSL\src\tool_homedir.obj"
+         "..\..\..\..\build\Win32\VC11\LIB Release - LIB OpenSSL\src\tool_hugehelp.obj"
+         "..\..\..\..\build\Win32\VC11\LIB Release - LIB OpenSSL\src\tool_libinfo.obj"
+         "..\..\..\..\build\Win32\VC11\LIB Release - LIB OpenSSL\src\tool_main.obj"
+         "..\..\..\..\build\Win32\VC11\LIB Release - LIB OpenSSL\src\tool_metalink.obj"
+         "..\..\..\..\build\Win32\VC11\LIB Release - LIB OpenSSL\src\tool_mfiles.obj"
+         "..\..\..\..\build\Win32\VC11\LIB Release - LIB OpenSSL\src\tool_msgs.obj"
+         "..\..\..\..\build\Win32\VC11\LIB Release - LIB OpenSSL\src\tool_operate.obj"
+         "..\..\..\..\build\Win32\VC11\LIB Release - LIB OpenSSL\src\tool_operhlp.obj"
+         "..\..\..\..\build\Win32\VC11\LIB Release - LIB OpenSSL\src\tool_panykey.obj"
+         "..\..\..\..\build\Win32\VC11\LIB Release - LIB OpenSSL\src\tool_paramhlp.obj"
+         "..\..\..\..\build\Win32\VC11\LIB Release - LIB OpenSSL\src\tool_parsecfg.obj"
+         "..\..\..\..\build\Win32\VC11\LIB Release - LIB OpenSSL\src\tool_setopt.obj"
+         "..\..\..\..\build\Win32\VC11\LIB Release - LIB OpenSSL\src\tool_sleep.obj"
+         "..\..\..\..\build\Win32\VC11\LIB Release - LIB OpenSSL\src\tool_strdup.obj"
+         "..\..\..\..\build\Win32\VC11\LIB Release - LIB OpenSSL\src\tool_urlglob.obj"
+         "..\..\..\..\build\Win32\VC11\LIB Release - LIB OpenSSL\src\tool_util.obj"
+         "..\..\..\..\build\Win32\VC11\LIB Release - LIB OpenSSL\src\tool_vms.obj"
+         "..\..\..\..\build\Win32\VC11\LIB Release - LIB OpenSSL\src\tool_writeenv.obj"
+         "..\..\..\..\build\Win32\VC11\LIB Release - LIB OpenSSL\src\tool_writeout.obj"
+         "..\..\..\..\build\Win32\VC11\LIB Release - LIB OpenSSL\src\tool_xattr.obj"
+         curl.vcxproj -> C:\Users\Administrator\Desktop\curl-7.52.1\projects\Windows\VC11\src\..\..\..\..\build\Win32\VC11\LIB Release - LIB OpenSSL\curl.exe
+     1>Done Building Project "C:\Users\Administrator\Desktop\curl-7.52.1\projects\Windows\VC11\src\curl.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.68
